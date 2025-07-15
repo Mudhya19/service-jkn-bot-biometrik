@@ -19,7 +19,7 @@ C:\laragon\www\jkn-biometrik-bot\node
 
 ## ⚙️ 2. Instalasi Prasyarat
 
-### a. Install Node.js (LTS 18+)
+### a. Install Node.js (LTS 20+)
 Unduh dari [https://nodejs.org](https://nodejs.org) dan install.
 
 ### b. Verifikasi Instalasi
