@@ -124,6 +124,7 @@ Itu hanya peringatan, **tidak mempengaruhi fungsi bot**. Bisa diabaikan.
 | Hapus bot     | `pm2 delete jkn-bot`           |
 | Lihat log     | `pm2 logs jkn-bot`             |
 | Simpan ulang  | `pm2 save`                     |
+| Update        | `pm2 update`                   |
 
 ---
 
